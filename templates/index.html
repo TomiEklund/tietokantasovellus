@@ -1,0 +1,22 @@
+<title>Etusivu</title>
+<h1>Etusivu</h1>
+<b>Tervetuloa</b> <i>sovellukseen</i>!
+<br>
+<a href="/sign_in">
+    <button>Kirjaudu sisään</button>
+  </a>
+  <br>
+  <a href="/new_user">
+    <button>Uusi käyttäjä</button>
+  </a>
+  <br>
+  <a href="/new_post">
+    <button>Kirjoita uusi viesti</button>
+  </a>
+
+  Viestien määrä: {{ count }}
+<hr>
+{% for message in messages %}
+{{ message.content }}
+<hr>
+{% endfor %}
