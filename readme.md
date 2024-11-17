@@ -20,3 +20,10 @@ sisäänkirjautumista. Sisältöä voi selata ilman profiilia.
 valita suodatuskriteerin.
 
 - Sisällön julkaisuajankohta näkyy sisällön yhteydessä.
+
+Välipalautus 2:
+
+Sovelluksen keskeisimmät sivut ovat olemassa ja niiden välillä liikkuminen
+ onnistuu. Messages-tietokanta on luotu ja sen sisältö päivittyy etsivulle.
+ Sovelluksen käyttäjä voi kirjoittaa viestejä, jotka tallentuvat tietokantaan
+ja ilmestyvät etusivulle.
